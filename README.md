@@ -6,7 +6,7 @@ In this video, I'm going to share with you 4 Pandas functions that I wish I knew
 
 ## Video
 
-[![YouTube Video](https://img.youtube.com/vi/EvvmOVyQaVY/0.jpg)](https://youtu.be/EvvmOVyQaVY)
+[![YouTube Video](https://img.youtube.com/vi/TYTPThKKHOQ/0.jpg)](https://youtu.be/TYTPThKKHOQ)
 
 
 ## Author
